@@ -1,17 +1,17 @@
 {
-  "subtitle": "UKO WAKWISUKURA UGAHORANA IMPUMURO NZIZA", 
-  "description": "UKO WAKWISUKURA UGAHORANA IMPUMURO NZIZA", 
+  "subtitle": "Uko wakwisukura ugahorana impumuro nziza", 
+  "description": "Uko wakwisukura ugahorana impumuro nziza", 
   "language": "kin_RW", 
-  "title": "ISUKU", 
+  "title": "Isuku", 
   "primary_category": "fcb4fcdc99164b7d87a4148fb5b23cf5", 
-  "created_at": "2015-05-22T04:45:38.274896+00:00", 
+  "created_at": "2015-05-22T04:45:38+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-05-22T04:45:38.275289+00:00", 
+  "modified_at": "2015-06-01T13:12:15.777369+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "isuku", 
   "uuid": "b350347da17d46af81c6d99d2811fe01"
