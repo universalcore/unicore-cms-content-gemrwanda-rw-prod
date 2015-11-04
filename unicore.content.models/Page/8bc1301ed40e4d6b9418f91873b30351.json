@@ -6,12 +6,12 @@
   "primary_category": "32da3de0f0404fddaf4f28137c2ee64c", 
   "created_at": "2015-05-22T04:35:07+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-10-19T15:06:11.333291+00:00", 
+  "modified_at": "2015-11-04T09:52:19.744375+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 4, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "imibonano-ya-mbere", 
   "uuid": "8bc1301ed40e4d6b9418f91873b30351"
