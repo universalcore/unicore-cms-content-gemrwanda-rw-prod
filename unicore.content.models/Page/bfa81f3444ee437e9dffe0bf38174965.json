@@ -6,12 +6,12 @@
   "primary_category": "32da3de0f0404fddaf4f28137c2ee64c", 
   "created_at": "2015-11-04T10:07:55+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-11-04T10:15:37.192962+00:00", 
+  "modified_at": "2015-11-18T13:25:01.744939+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "ububabare-mu-gihe-cyimihango", 
   "uuid": "bfa81f3444ee437e9dffe0bf38174965"
