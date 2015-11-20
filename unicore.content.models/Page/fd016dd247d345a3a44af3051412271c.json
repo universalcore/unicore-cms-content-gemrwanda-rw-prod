@@ -6,12 +6,12 @@
   "primary_category": "fcb4fcdc99164b7d87a4148fb5b23cf5", 
   "created_at": "2015-11-04T10:53:56+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-11-20T14:15:45.706102+00:00", 
+  "modified_at": "2015-11-20T14:37:11.093969+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "8c36aa74dae744fabc45c7c56c22ed96", 
   "published": null, 
-  "position": 1, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "ubwagavu-mu-gihe-cyanjye", 
   "uuid": "fd016dd247d345a3a44af3051412271c"
