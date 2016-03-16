@@ -3,15 +3,15 @@
   "description": "We talked to teenage girls from around the world about puberty in their country. Here is what they had to say...", 
   "language": "eng_GB", 
   "title": "Teenage Girls Across the World", 
-  "primary_category": "c79f02dac37d49e3962996b82f439f85", 
-  "created_at": "2016-03-16T12:51:06.771978+00:00", 
+  "primary_category": "476504c860f241978ef52251c493455f", 
+  "created_at": "2016-03-16T12:51:06+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-03-16T12:51:06.772237+00:00", 
+  "modified_at": "2016-03-16T12:56:43.296637+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "d03392d45ea7483388d6b54cab0ca043", 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "teenage-girls-across-world", 
   "uuid": "656a2e05e28e4c6bb6f26d0eca780e86"
