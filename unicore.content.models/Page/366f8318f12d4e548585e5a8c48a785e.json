@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "A \"Ni Nyampinga\" asks us about the morning after pill, Aunty answers. ", 
+  "language": "eng_GB", 
+  "title": "The Morning After Pill", 
+  "primary_category": "c79f02dac37d49e3962996b82f439f85", 
+  "created_at": "2016-03-16T12:55:22.829886+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-03-16T12:55:22.830146+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Dear Auntie,\r\n\r\nHow does a girl use the morning-after pill?\r\n\r\nI think in order to answer this it is best if I first explain exactly what the morning-after pill is for girls who haven\u2019t heard of it before. The morning-after pill is something you can take to prevent pregnancy if you\u2019ve had unprotected sex or if your regular form of contraception has failed. For example, if you have protected sex with a condom but the condom breaks you can take the morning-after pill to prevent an unwanted pregnancy. These pills should only be used in emergencies and shouldn\u2019t be used as your regular form of contraception. \r\nThe sooner you take the morning-after pill after having unprotected sex the more effective it will be. If you take it after fertilization has already occurred and you\u2019re already pregnant, It won\u2019t do anything\u2014these pills don\u2019t cause miscarriages. \r\n\r\nYou can buy the morning-after pill in a licensed drug store or get them from a doctor at a health clinic. Ask the pharmacist or doctor to explain how to use them as there are several different kinds. Always make sure you follow the instructions. \r\n\r\nPlease remember that the morning-after pill is not to be used as a regular form of contraception\u2014it\u2019s for emergencies only. The pill doesn\u2019t protect you from STDs like HIV.", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "4382ba38acf0493d9b414f270abdd73b", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "morning-after-pill", 
+  "uuid": "366f8318f12d4e548585e5a8c48a785e"
+}
