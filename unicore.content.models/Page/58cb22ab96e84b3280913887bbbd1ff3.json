@@ -5,13 +5,13 @@
   "title": "Umunyamideri w'umwuga wabitangiye akiri muto", 
   "primary_category": "fcb4fcdc99164b7d87a4148fb5b23cf5", 
   "created_at": "2016-02-02T06:55:20+00:00", 
-  "featured_in_category": true, 
-  "modified_at": "2016-02-10T07:41:17.409353+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-04-28T07:04:09.198191+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "2f8ac1658f304f328825dccd68d4494f", 
   "published": null, 
-  "position": 2, 
+  "position": 31, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "umunyamideri-wumwuga-wabitangiye-akiri-muto", 
   "uuid": "58cb22ab96e84b3280913887bbbd1ff3"
